@@ -1,0 +1,12 @@
+C:\Users\fgcyb\source\repos\Death_Rock\EAD_ASS_5\obj\Release\Death_Rock.csproj.AssemblyReference.cache
+C:\Users\fgcyb\source\repos\Death_Rock\EAD_ASS_5\obj\Release\Death_Rock.csproj.SuggestedBindingRedirects.cache
+C:\Users\fgcyb\source\repos\Death_Rock\EAD_ASS_5\obj\Release\MainWindow.g.cs
+C:\Users\fgcyb\source\repos\Death_Rock\EAD_ASS_5\obj\Release\OrderDetailsWindow.g.cs
+C:\Users\fgcyb\source\repos\Death_Rock\EAD_ASS_5\obj\Release\QuantityBoxWindow.g.cs
+C:\Users\fgcyb\source\repos\Death_Rock\EAD_ASS_5\obj\Release\UserControls\ItemBox.g.cs
+C:\Users\fgcyb\source\repos\Death_Rock\EAD_ASS_5\obj\Release\UserControls\ItemCategoryBox.g.cs
+C:\Users\fgcyb\source\repos\Death_Rock\EAD_ASS_5\obj\Release\App.g.cs
+C:\Users\fgcyb\source\repos\Death_Rock\EAD_ASS_5\obj\Release\Death_Rock_Content.g.cs
+C:\Users\fgcyb\source\repos\Death_Rock\EAD_ASS_5\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\fgcyb\source\repos\Death_Rock\EAD_ASS_5\obj\Release\Death_Rock_MarkupCompile.cache
+C:\Users\fgcyb\source\repos\Death_Rock\EAD_ASS_5\obj\Release\Death_Rock_MarkupCompile.lref
