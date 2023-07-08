@@ -1,5 +1,6 @@
 # Death_Rock-Cashier
-Project Program Berorientasi Objek Universitas Trilogi
+Project Program Berorientasi Objek (PBO) Universitas Trilogi
+by Gerrio Irfan Pratama, Zulkifli Azis, Dicky Setiawan
 <h1>Death Rock Cafe</h1>
 <p>A Desktop Application developed using Windows Presentation Foundation(WPF) and SQL as a database with PDF receipt generation.</p>
 <hr />
