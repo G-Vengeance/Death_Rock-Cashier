@@ -23,7 +23,8 @@ Project Program Berorientasi Objek Universitas Trilogi
 
 <h2>Devlopement Setup</h2>
 <ol style="list-style-position:inside; padding-left:0px;line-height:1.7;">
-<li> Clone this repository or simply download code <a href="https://github.com/Aizaz-Ahmad/Point-of-Sale/archive/refs/heads/master.zip">ZIP folder</a>. To clone this repo use the following command. 
+<li> Clone this repository or simply download code <a href="https://github.com/G-Vengeance/Death_Rock-Cashier.git">. To clone this repo use the following command.
+<li> if you download this project you should save this in C:\Users\pcname\source\repos.
 <br />
     
 </li>
